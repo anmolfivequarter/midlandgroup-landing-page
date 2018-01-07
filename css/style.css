@@ -1,0 +1,77 @@
+/*
+Author: Anmol Nandha - Five Quarter Designs
+Author URI: http://fivequarterdesigns.com/
+Description: Midland Group Direct is the corporate entity and specialists in Kitches, Bedrooms and Furniture
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: midlandgroupdirect
+*/
+/* COLOURS */
+/* GENERAL */
+/* line 17, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+html {
+  height: 100%; }
+  /* line 19, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+  html body {
+    height: 100%;
+    background-image: url(../img/background-img@2x.png);
+    background-size: cover;
+    background-repeat: no-repeat; }
+    /* line 24, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+    html body .container {
+      background-color: rgba(255, 255, 255, 0.8);
+      height: 100%;
+      max-width: 960px; }
+      /* line 28, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+      html body .container hr {
+        background: #2D2E83;
+        width: 77px;
+        height: 4px; }
+
+/* HEADER */
+/* line 39, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+header {
+  padding-top: 75px; }
+
+/* CONTENT */
+/* line 45, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+.content {
+  margin-top: 50px;
+  font-family: 'Montserrat', sans-serif; }
+  /* line 48, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+  .content h1 {
+    font-weight: 600;
+    color: #2D2E83;
+    font-size: 30px; }
+  /* line 53, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+  .content p {
+    font-weight: 300;
+    color: black;
+    font-size: 14px;
+    line-height: 22px; }
+  /* line 60, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+  .content .details .contact-detail {
+    font-size: 18px; }
+    /* line 62, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+    .content .details .contact-detail .contact-icon {
+      width: 45px;
+      color: #2D2E83; }
+    /* line 66, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+    .content .details .contact-detail .contact-info {
+      font-weight: 300;
+      color: black; }
+      /* line 69, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+      .content .details .contact-detail .contact-info a {
+        color: black;
+        text-decoration: none; }
+        /* line 72, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+        .content .details .contact-detail .contact-info a:hover {
+          font-weight: 300; }
+
+/* GROUP LOGOS */
+/* line 83, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Midlands Kitchens Direct/Landing Page/midlandgroup-landing-page/css/style.scss */
+.group-logos .col-12 {
+  margin-bottom: 40px; }
+
+/*# sourceMappingURL=style.css.map */
